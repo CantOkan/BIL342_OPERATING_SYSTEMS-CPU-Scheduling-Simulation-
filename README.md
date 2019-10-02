@@ -10,3 +10,7 @@ proje.py ile öncelikli olarak  simülasyonu çalıştırıyoruz ve Gerekli txt 
 ![Screenshot from 2019-05-16 15-04-46](https://user-images.githubusercontent.com/25572428/66066221-cca52f00-e551-11e9-958e-dc1b80cf1c7e.png)
 
 ![Screenshot from 2019-05-16 15-45-23](https://user-images.githubusercontent.com/25572428/66066277-e5154980-e551-11e9-8f9e-cb8df14ef282.png)
+
+
+
+## Proje'de python'nın Thread kütüphanesi kullanılarak her process için bir thread olusturuldu ve Queuelara bu processler atandı.
